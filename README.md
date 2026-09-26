@@ -1,4 +1,4 @@
-# Startup Business Outcome Analysis
+# Startup Funding and Status Analysis
 
 ## Overview
 
