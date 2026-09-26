@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project explores a dataset of startup businesses to examine how funding and recorded company status vary across businesses. The goal is to understand the data and prepare for a later model that predicts a clearly defined business outcome.
-
-**Project status:** Exploratory analysis complete; predictive modeling planned.
+Explores how startup funding and recorded company status vary across businesses. The analysis examines data quality, funding distributions, and class balance to inform a future predictive model.
 
 ## Questions
 
