@@ -40,6 +40,6 @@ Install the packages in `requirements.txt`, then open the notebook in Jupyter an
 pip install -r requirements.txt
 ```
 
-## Limitations and next steps
+## Limitations 
 
-The current analysis describes associations in the recorded data; it does not establish that funding causes a particular outcome. The status categories also need a more precise definition before they can serve as a prediction target. Next steps are to define the outcome and prediction date, prevent information from later in a startup’s history from entering its predictors, train a baseline model, and evaluate the model on held-out data.
+The current analysis describes associations in the recorded data; it does not establish that funding causes a particular outcome. The status categories also need a more precise definition before they can serve as a prediction target. Possible extensions to this project include defining the outcome and prediction date, preventing information from later in a startup’s history from entering its predictors, training a baseline model, and evaluating the model on held-out data.
