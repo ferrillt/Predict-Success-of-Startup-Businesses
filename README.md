@@ -17,6 +17,20 @@ Funding is highly uneven: a relatively small number of startups account for much
 
 ![Chart showing the proportion of startups in each recorded status category](images/ProportionStartupsByStatus.png)
 
+## Project Status
+
+Exploratory analysis is complete. A planned extension will train and evaluate models that classify recorded company status using funding, industry, and location information.
+
+## Planned Modeling Scope
+
+- **Outcome:** Recorded company status: closed versus operating.
+  Acquired and IPO businesses will be excluded from this comparison.
+- **Prediction timing:** Classification using information recorded in
+  the dataset snapshot. The exact snapshot date has not been verified.
+- **Limitation:** This analysis will not estimate whether a startup
+  will close within a specified future period. The dataset lacks
+  outcome dates and historical snapshots needed for that evaluation.
+
 ## What the notebook does
 
 The [analysis notebook](analysis/PredictSuccess_StartupBusinesses.ipynb) loads and inspects the dataset, reviews missing values and data types, prepares funding fields for analysis, and visualizes funding and company status. It also outlines the work needed to develop and validate a predictive model.
