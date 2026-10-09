@@ -7,7 +7,7 @@ Explores how startup funding and recorded company status vary across businesses.
 ## Data Source
 
 The analysis uses the Startup Success Prediction dataset available
-on [Kaggle]([https://www.kaggle.com/datasets/lolaosama/big-startup-secsees]).
+on [Kaggle](https://www.kaggle.com/datasets/lolaosama/big-startup-secsees).
 
 The dataset is included in this repository at
 `data/big_startup_secsees_dataset.csv`. It contains funding,
