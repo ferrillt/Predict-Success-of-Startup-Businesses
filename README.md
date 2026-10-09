@@ -4,6 +4,15 @@
 
 Explores how startup funding and recorded company status vary across businesses. The analysis examines data quality, funding distributions, and class balance to inform a future predictive model.
 
+## Data Source
+
+The analysis uses the Startup Success Prediction dataset available
+on [Kaggle]([https://www.kaggle.com/datasets/lolaosama/big-startup-secsees]).
+
+The dataset is included in this repository at
+`data/big_startup_secsees_dataset.csv`. It contains funding,
+industry, location, and recorded status information for 66,368 businesses.
+
 ## Questions
 
 - How is total funding distributed across startups?
