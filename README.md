@@ -54,4 +54,4 @@ pip install -r requirements.txt
 
 ## Limitations 
 
-The current analysis describes associations in the recorded data; it does not establish that funding causes a particular outcome. The status categories also need a more precise definition before they can serve as a prediction target. Possible extensions to this project include defining the outcome and prediction date, preventing information from later in a startup’s history from entering its predictors, training a baseline model, and evaluating the model on held-out data.
+The current analysis describes associations in the recorded data; it does not establish that funding causes a particular outcome. The planned classifier will distinguish recorded closed and operating statuses. The dataset’s exact snapshot date is unverified, and funding totals may include information accumulated later in a business’s history. Predicting a future outcome would require dated outcomes and historical predictor information. Model training and held-out evaluation remain future work.
