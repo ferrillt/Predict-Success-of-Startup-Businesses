@@ -42,13 +42,13 @@ Exploratory analysis is complete. A planned extension will train and evaluate mo
 
 ## What the notebook does
 
-The [analysis notebook](analysis/PredictSuccess_StartupBusinesses.ipynb) loads and inspects the dataset, reviews missing values and data types, prepares funding fields for analysis, and visualizes funding and company status. It also outlines the work needed to develop and validate a predictive model.
+The [analysis notebook](notebook/PredictSuccess_StartupBusinesses.ipynb) loads and inspects the dataset, reviews missing values and data types, prepares funding fields for analysis, and visualizes funding and company status. It also outlines the work needed to develop and validate a predictive model.
 
 ## Repository contents
 
 | Path | Description |
 |---|---|
-| [`analysis/PredictSuccess_StartupBusinesses.ipynb`](analysis/PredictSuccess_StartupBusinesses.ipynb) | Data preparation and exploratory analysis |
+| [`notebook/PredictSuccess_StartupBusinesses.ipynb`](notebook/PredictSuccess_StartupBusinesses.ipynb) | Data preparation and exploratory analysis |
 | [`data/`](data/) | Startup dataset |
 | [`images/`](images/) | Charts produced for the analysis |
 | [`requirements.txt`](requirements.txt) | Python packages for the project |
